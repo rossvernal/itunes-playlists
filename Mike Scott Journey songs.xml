@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-12-05T08:55:09Z</date>
+	<key>Application Version</key><string>12.6.1.25</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/ross_/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C039D168C87B2A3C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>2063</key>
+		<dict>
+			<key>Track ID</key><integer>2063</integer>
+			<key>Name</key><string>Sunrising</string>
+			<key>Artist</key><string>Mike Scott</string>
+			<key>Album Artist</key><string>Mike Scott</string>
+			<key>Composer</key><string>Mike Scott</string>
+			<key>Album</key><string>Still Burning</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10485711</integer>
+			<key>Total Time</key><integer>299533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2011-12-01T18:34:11Z</date>
+			<key>Date Added</key><date>2010-01-18T19:29:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3572353404</integer>
+			<key>Play Date UTC</key><date>2017-03-14T16:23:24Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-02-26T10:09:15Z</date>
+			<key>Normalization</key><integer>2795</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1F09E8DD89BB28E3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>6343</key>
+		<dict>
+			<key>Track ID</key><integer>6343</integer>
+			<key>Name</key><string>Somebody Might Wave Back</string>
+			<key>Artist</key><string>The Waterboys</string>
+			<key>Album Artist</key><string>The Waterboys</string>
+			<key>Composer</key><string>Mike Scott</string>
+			<key>Album</key><string>The Secret Life Of The Waterboys</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2031304</integer>
+			<key>Total Time</key><integer>123626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2011-11-24T19:34:28Z</date>
+			<key>Date Added</key><date>2006-09-19T19:37:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3572353528</integer>
+			<key>Play Date UTC</key><date>2017-03-14T16:25:28Z</date>
+			<key>Normalization</key><integer>421</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Secret Life Of The Waterboys</string>
+			<key>Sort Album Artist</key><string>Waterboys</string>
+			<key>Sort Artist</key><string>Waterboys</string>
+			<key>Persistent ID</key><string>FD23BC910A8A5250</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>6567</key>
+		<dict>
+			<key>Track ID</key><integer>6567</integer>
+			<key>Name</key><string>Church Not Made With Hands</string>
+			<key>Artist</key><string>The Waterboys</string>
+			<key>Album Artist</key><string>The Waterboys</string>
+			<key>Composer</key><string>Mike Scott</string>
+			<key>Album</key><string>A Pagan Place</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5873212</integer>
+			<key>Total Time</key><integer>362693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2012-11-08T21:39:09Z</date>
+			<key>Date Added</key><date>2006-09-20T16:56:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3572350540</integer>
+			<key>Play Date UTC</key><date>2017-03-14T15:35:40Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-04-04T12:54:40Z</date>
+			<key>Normalization</key><integer>10271</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pagan Place</string>
+			<key>Sort Album Artist</key><string>Waterboys</string>
+			<key>Sort Artist</key><string>Waterboys</string>
+			<key>Persistent ID</key><string>8BCFCA2790126351</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>7857</key>
+		<dict>
+			<key>Track ID</key><integer>7857</integer>
+			<key>Name</key><string>Higherbound (3rd Version)</string>
+			<key>Artist</key><string>The Waterboys</string>
+			<key>Album Artist</key><string>The Waterboys</string>
+			<key>Composer</key><string>Mike Scott</string>
+			<key>Album</key><string>Fisherman's Box</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10420812</integer>
+			<key>Total Time</key><integer>318066</integer>
+			<key>Disc Number</key><integer>5</integer>
+			<key>Disc Count</key><integer>6</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-11-03T21:47:21Z</date>
+			<key>Date Added</key><date>2013-11-03T22:04:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 241727178</string>
+			<key>Play Count</key><integer>67</integer>
+			<key>Play Date</key><integer>3574147797</integer>
+			<key>Play Date UTC</key><date>2017-04-04T09:49:57Z</date>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Waterboys</string>
+			<key>Sort Artist</key><string>Waterboys</string>
+			<key>Persistent ID</key><string>2D0389294EFB6152</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>10369</key>
+		<dict>
+			<key>Track ID</key><integer>10369</integer>
+			<key>Name</key><string>Long Strange Golden Road</string>
+			<key>Artist</key><string>The Waterboys</string>
+			<key>Album Artist</key><string>The Waterboys</string>
+			<key>Album</key><string>Modern Blues</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Total Time</key><integer>622492</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-01-20T22:30:40Z</date>
+			<key>Date Added</key><date>2015-01-19T10:38:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3572351168</integer>
+			<key>Play Date UTC</key><date>2017-03-14T15:46:08Z</date>
+			<key>Normalization</key><integer>1710</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Modern Blues</string>
+			<key>Sort Album Artist</key><string>Waterboys</string>
+			<key>Sort Artist</key><string>The Waterboys</string>
+			<key>Sort Name</key><string>Long Strange Golden Road</string>
+			<key>Persistent ID</key><string>CA8A0B2BF4FDD586</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>17561</key>
+		<dict>
+			<key>Track ID</key><integer>17561</integer>
+			<key>Name</key><string>On My Way To The Big Light</string>
+			<key>Artist</key><string>The Waterboys</string>
+			<key>Album</key><string>Kiss The Wind</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8191905</integer>
+			<key>Total Time</key><integer>341315</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Date Modified</key><date>2008-04-29T20:40:03Z</date>
+			<key>Date Added</key><date>2008-04-29T20:39:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3572351509</integer>
+			<key>Play Date UTC</key><date>2017-03-14T15:51:49Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1301</integer>
+			<key>Sort Artist</key><string>Waterboys</string>
+			<key>Persistent ID</key><string>D913473339B44279</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Mike Scott Journey songs</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>38868</integer>
+			<key>Playlist Persistent ID</key><string>D369374A04D9BB13</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>6567</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10369</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17561</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7857</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2063</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6343</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

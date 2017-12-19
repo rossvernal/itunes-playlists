@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-12-05T08:54:34Z</date>
+	<key>Application Version</key><string>12.6.1.25</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/ross_/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C039D168C87B2A3C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>1353</key>
+		<dict>
+			<key>Track ID</key><integer>1353</integer>
+			<key>Name</key><string>When the Night Kills the Day</string>
+			<key>Artist</key><string>Lauren Pritchard</string>
+			<key>Album Artist</key><string>Lauren Pritchard</string>
+			<key>Composer</key><string>Ed Harcourt/Lauren Pritchard</string>
+			<key>Album</key><string>Wasted In Jackson</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8354890</integer>
+			<key>Total Time</key><integer>224873</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2012-11-08T21:34:46Z</date>
+			<key>Date Added</key><date>2010-10-26T15:19:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3575636191</integer>
+			<key>Play Date UTC</key><date>2017-04-21T15:16:31Z</date>
+			<key>Normalization</key><integer>6027</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ACC56DE3CF8DD3FC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>2369</key>
+		<dict>
+			<key>Track ID</key><integer>2369</integer>
+			<key>Name</key><string>Cuckoo</string>
+			<key>Artist</key><string>Lissie</string>
+			<key>Album Artist</key><string>Lissie</string>
+			<key>Composer</key><string>Julian Emery, Elisabeth Maurus &#38; James Irvin</string>
+			<key>Album</key><string>Catching a Tiger</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7725071</integer>
+			<key>Total Time</key><integer>216524</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-05-01T16:34:16Z</date>
+			<key>Date Added</key><date>2013-04-22T10:01:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3575636449</integer>
+			<key>Play Date UTC</key><date>2017-04-21T15:20:49Z</date>
+			<key>Normalization</key><integer>7880</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Catching a Tiger</string>
+			<key>Sort Artist</key><string>Lissie</string>
+			<key>Sort Name</key><string>Cuckoo</string>
+			<key>Persistent ID</key><string>ABEA3DAD57B8E4D8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>2383</key>
+		<dict>
+			<key>Track ID</key><integer>2383</integer>
+			<key>Name</key><string>Wedding Bells</string>
+			<key>Artist</key><string>Lissie</string>
+			<key>Album Artist</key><string>Lissie</string>
+			<key>Composer</key><string>Claude Boone</string>
+			<key>Album</key><string>An Introduction to Lissie - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6637869</integer>
+			<key>Total Time</key><integer>185050</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-05-01T16:32:55Z</date>
+			<key>Date Added</key><date>2013-04-24T09:25:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3575636634</integer>
+			<key>Play Date UTC</key><date>2017-04-21T15:23:54Z</date>
+			<key>Normalization</key><integer>1770</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Introduction to Lissie - EP</string>
+			<key>Sort Artist</key><string>Lissie</string>
+			<key>Sort Name</key><string>Wedding Bells</string>
+			<key>Persistent ID</key><string>E1D7811CDFA6E275</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>2583</key>
+		<dict>
+			<key>Track ID</key><integer>2583</integer>
+			<key>Name</key><string>Portugese Skies</string>
+			<key>Artist</key><string>Jo Mango</string>
+			<key>Album</key><string>The Antidote EP</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4414626</integer>
+			<key>Total Time</key><integer>275293</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-07-28T18:59:24Z</date>
+			<key>Date Added</key><date>2005-07-28T18:58:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>80</integer>
+			<key>Play Date</key><integer>3574141953</integer>
+			<key>Play Date UTC</key><date>2017-04-04T08:12:33Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-05-21T15:07:51Z</date>
+			<key>Normalization</key><integer>2743</integer>
+			<key>Sort Album</key><string>Antidote EP</string>
+			<key>Persistent ID</key><string>26B4C6EBB23F57CB</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>3933</key>
+		<dict>
+			<key>Track ID</key><integer>3933</integer>
+			<key>Name</key><string>Hurricane</string>
+			<key>Artist</key><string>Mindy Smith</string>
+			<key>Album Artist</key><string>Mindy Smith</string>
+			<key>Composer</key><string>Mindy Smith</string>
+			<key>Album</key><string>One Moment More</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3452252</integer>
+			<key>Total Time</key><integer>212995</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2011-12-01T18:34:49Z</date>
+			<key>Date Added</key><date>2006-07-25T15:29:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3572934680</integer>
+			<key>Play Date UTC</key><date>2017-03-21T09:51:20Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0CD8CF077E8F6A42</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>4467</key>
+		<dict>
+			<key>Track ID</key><integer>4467</integer>
+			<key>Name</key><string>Devil's Spoke</string>
+			<key>Artist</key><string>Laura Marling</string>
+			<key>Album Artist</key><string>Laura Marling</string>
+			<key>Composer</key><string>Laura Marling</string>
+			<key>Album</key><string>I Speak Because I Can</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7499462</integer>
+			<key>Total Time</key><integer>218109</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-11-27T16:09:18Z</date>
+			<key>Date Added</key><date>2011-02-21T17:39:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3575636852</integer>
+			<key>Play Date UTC</key><date>2017-04-21T15:27:32Z</date>
+			<key>Normalization</key><integer>2444</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8EA86807764C67F6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>4509</key>
+		<dict>
+			<key>Track ID</key><integer>4509</integer>
+			<key>Name</key><string>The Colour Of The Earth</string>
+			<key>Artist</key><string>PJ Harvey</string>
+			<key>Album Artist</key><string>PJ Harvey</string>
+			<key>Composer</key><string>PJ Harvey</string>
+			<key>Album</key><string>Let England Shake</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4964576</integer>
+			<key>Total Time</key><integer>153613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2011-11-24T19:43:56Z</date>
+			<key>Date Added</key><date>2011-02-21T17:46:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3519642571</integer>
+			<key>Play Date UTC</key><date>2015-07-13T13:29:31Z</date>
+			<key>Normalization</key><integer>1738</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Colour Of The Earth</string>
+			<key>Persistent ID</key><string>8734C756BB5C159F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>6125</key>
+		<dict>
+			<key>Track ID</key><integer>6125</integer>
+			<key>Name</key><string>Silent House</string>
+			<key>Artist</key><string>Dixie Chicks</string>
+			<key>Composer</key><string>Neil Finn/Emily Burns Erwin Robison</string>
+			<key>Album</key><string>Taking The Long Way</string>
+			<key>Genre</key><string>Country &#38; Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10872907</integer>
+			<key>Total Time</key><integer>323826</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2012-07-22T18:46:27Z</date>
+			<key>Date Added</key><date>2012-07-22T18:46:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3523099062</integer>
+			<key>Play Date UTC</key><date>2015-08-22T13:37:42Z</date>
+			<key>Normalization</key><integer>6590</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DF2293384EF5B1BC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>6813</key>
+		<dict>
+			<key>Track ID</key><integer>6813</integer>
+			<key>Name</key><string>River</string>
+			<key>Artist</key><string>Joni Mitchell</string>
+			<key>Album Artist</key><string>Joni Mitchell</string>
+			<key>Composer</key><string>Joni Mitchell</string>
+			<key>Album</key><string>Blue</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Total Time</key><integer>244970</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2015-04-14T20:37:00Z</date>
+			<key>Date Added</key><date>2013-05-26T19:16:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3535298305</integer>
+			<key>Play Date UTC</key><date>2016-01-10T19:18:25Z</date>
+			<key>Normalization</key><integer>1331</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DCF449E7EF142B3C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>7491</key>
+		<dict>
+			<key>Track ID</key><integer>7491</integer>
+			<key>Name</key><string>Feeling of Beauty</string>
+			<key>Artist</key><string>Tift Merritt</string>
+			<key>Album Artist</key><string>Tift Merritt</string>
+			<key>Album</key><string>Traveling Alone (Bonus Track Version)</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Total Time</key><integer>241760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2014-06-04T18:41:34Z</date>
+			<key>Date Added</key><date>2013-10-30T08:33:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3543162493</integer>
+			<key>Play Date UTC</key><date>2016-04-10T18:48:13Z</date>
+			<key>Normalization</key><integer>1788</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DFE00B555FA10AF1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>8537</key>
+		<dict>
+			<key>Track ID</key><integer>8537</integer>
+			<key>Name</key><string>Song to a Fox</string>
+			<key>Artist</key><string>Rachel Sermanni</string>
+			<key>Album</key><string>Under Mountains</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10250253</integer>
+			<key>Total Time</key><integer>310080</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2014-02-02T11:30:31Z</date>
+			<key>Date Added</key><date>2014-02-02T11:30:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3572609655</integer>
+			<key>Play Date UTC</key><date>2017-03-17T15:34:15Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-03-23T14:30:25Z</date>
+			<key>Normalization</key><integer>1211</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>42E160D3968676D8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>8679</key>
+		<dict>
+			<key>Track ID</key><integer>8679</integer>
+			<key>Name</key><string>Rewind</string>
+			<key>Artist</key><string>Diane Birch</string>
+			<key>Album Artist</key><string>Diane Birch</string>
+			<key>Composer</key><string>Diane Birch</string>
+			<key>Album</key><string>Bible Belt</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>12713306</integer>
+			<key>Total Time</key><integer>370047</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-09-26T09:13:02Z</date>
+			<key>Date Added</key><date>2010-05-12T03:21:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3523103076</integer>
+			<key>Play Date UTC</key><date>2015-08-22T14:44:36Z</date>
+			<key>Normalization</key><integer>3537</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DE0472172AEB41CC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>11817</key>
+		<dict>
+			<key>Track ID</key><integer>11817</integer>
+			<key>Name</key><string>After Your Party</string>
+			<key>Artist</key><string>Tanya Donelly</string>
+			<key>Composer</key><string>Tanya Donelly, Dean Fisher</string>
+			<key>Album</key><string>Sleepwalk EP</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2843259</integer>
+			<key>Total Time</key><integer>174440</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2006-10-03T15:50:24Z</date>
+			<key>Date Added</key><date>2006-10-03T15:49:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3511516648</integer>
+			<key>Play Date UTC</key><date>2015-04-10T12:17:28Z</date>
+			<key>Normalization</key><integer>923</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D2AE9859282A31CF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>15975</key>
+		<dict>
+			<key>Track ID</key><integer>15975</integer>
+			<key>Name</key><string>Bluebird</string>
+			<key>Artist</key><string>Kasey Chambers</string>
+			<key>Album Artist</key><string>Kasey Chambers</string>
+			<key>Composer</key><string>Chambers, K.</string>
+			<key>Album</key><string>Wayward Angel</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3988370</integer>
+			<key>Total Time</key><integer>245866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2011-11-27T16:08:17Z</date>
+			<key>Date Added</key><date>2006-10-14T10:11:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3523100242</integer>
+			<key>Play Date UTC</key><date>2015-08-22T13:57:22Z</date>
+			<key>Normalization</key><integer>6263</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>006FF86E67FEE92E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>16875</key>
+		<dict>
+			<key>Track ID</key><integer>16875</integer>
+			<key>Name</key><string>Sophia</string>
+			<key>Artist</key><string>Nerina Pallot</string>
+			<key>Album Artist</key><string>Nerina Pallot</string>
+			<key>Composer</key><string>Nerina Pallot</string>
+			<key>Album</key><string>Fires [2005]</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3531992</integer>
+			<key>Total Time</key><integer>219200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2011-12-01T18:42:39Z</date>
+			<key>Date Added</key><date>2007-03-16T16:15:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3523100674</integer>
+			<key>Play Date UTC</key><date>2015-08-22T14:04:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-01-16T14:32:07Z</date>
+			<key>Normalization</key><integer>3159</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C9754708834B7A0B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Female Singers</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>38799</integer>
+			<key>Playlist Persistent ID</key><string>9FEE6997D21C020C</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>1353</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2369</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2383</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8679</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2583</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6813</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15975</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3933</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16875</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8537</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11817</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7491</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

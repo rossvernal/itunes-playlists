@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-12-05T08:55:27Z</date>
+	<key>Application Version</key><string>12.6.1.25</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/ross_/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C039D168C87B2A3C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>3189</key>
+		<dict>
+			<key>Track ID</key><integer>3189</integer>
+			<key>Name</key><string>Powderfinger</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Neil Young</string>
+			<key>Album</key><string>Rust Never Sleeps (Live)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5369977</integer>
+			<key>Total Time</key><integer>331200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2011-12-01T18:40:06Z</date>
+			<key>Date Added</key><date>2006-03-02T18:40:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3522666171</integer>
+			<key>Play Date UTC</key><date>2015-08-17T13:22:51Z</date>
+			<key>Normalization</key><integer>2250</integer>
+			<key>Persistent ID</key><string>B58265DA52ADA199</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>8145</key>
+		<dict>
+			<key>Track ID</key><integer>8145</integer>
+			<key>Name</key><string>After The Gold Rush</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Neil Young</string>
+			<key>Album</key><string>After The Goldrush</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3674148</integer>
+			<key>Total Time</key><integer>226106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2011-12-01T18:36:47Z</date>
+			<key>Date Added</key><date>2006-09-24T18:06:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3548783660</integer>
+			<key>Play Date UTC</key><date>2016-06-14T20:14:20Z</date>
+			<key>Normalization</key><integer>639</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>75E2FF4849E2AB32</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>8153</key>
+		<dict>
+			<key>Track ID</key><integer>8153</integer>
+			<key>Name</key><string>Oh, Lonesome Me</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Don Gibson</string>
+			<key>Album</key><string>After The Goldrush</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3744947</integer>
+			<key>Total Time</key><integer>230506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2011-12-01T18:36:47Z</date>
+			<key>Date Added</key><date>2006-09-24T18:10:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3548784491</integer>
+			<key>Play Date UTC</key><date>2016-06-14T20:28:11Z</date>
+			<key>Normalization</key><integer>538</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4FF462783BC0D63F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>8167</key>
+		<dict>
+			<key>Track ID</key><integer>8167</integer>
+			<key>Name</key><string>Harvest</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Young, Neil</string>
+			<key>Album</key><string>Harvest</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3069792</integer>
+			<key>Total Time</key><integer>191466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2011-12-01T18:38:03Z</date>
+			<key>Date Added</key><date>2006-09-24T18:17:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3508403782</integer>
+			<key>Play Date UTC</key><date>2015-03-05T12:36:22Z</date>
+			<key>Normalization</key><integer>576</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>85AFD28DA5C7B792</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>8169</key>
+		<dict>
+			<key>Track ID</key><integer>8169</integer>
+			<key>Name</key><string>A Man Needs A Maid</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Young, Neil</string>
+			<key>Album</key><string>Harvest</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3921991</integer>
+			<key>Total Time</key><integer>245506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2011-12-01T18:38:03Z</date>
+			<key>Date Added</key><date>2006-09-24T18:18:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3508403590</integer>
+			<key>Play Date UTC</key><date>2015-03-05T12:33:10Z</date>
+			<key>Normalization</key><integer>771</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Man Needs A Maid</string>
+			<key>Persistent ID</key><string>FE0FD0277A1BFB80</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>8171</key>
+		<dict>
+			<key>Track ID</key><integer>8171</integer>
+			<key>Name</key><string>Heart Of Gold</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Young, Neil</string>
+			<key>Album</key><string>Harvest</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3048933</integer>
+			<key>Total Time</key><integer>187093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2011-12-01T18:38:03Z</date>
+			<key>Date Added</key><date>2006-09-24T18:19:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3508411190</integer>
+			<key>Play Date UTC</key><date>2015-03-05T14:39:50Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Normalization</key><integer>719</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>08CCAC92AE65DFFE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>8199</key>
+		<dict>
+			<key>Track ID</key><integer>8199</integer>
+			<key>Name</key><string>Ambulance Blues</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Young</string>
+			<key>Album</key><string>On The Beach</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8690670</integer>
+			<key>Total Time</key><integer>536266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1974</integer>
+			<key>Date Modified</key><date>2011-12-01T18:39:42Z</date>
+			<key>Date Added</key><date>2006-09-25T09:39:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3514201636</integer>
+			<key>Play Date UTC</key><date>2015-05-11T14:07:16Z</date>
+			<key>Normalization</key><integer>1189</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>22A9D63065A5BBC2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>8211</key>
+		<dict>
+			<key>Track ID</key><integer>8211</integer>
+			<key>Name</key><string>Mellow My Mind</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Neil Young/Neil Young, Danny Whitten</string>
+			<key>Album</key><string>Tonight's The Night</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3068215</integer>
+			<key>Total Time</key><integer>188266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2013-01-01T11:26:09Z</date>
+			<key>Date Added</key><date>2006-09-25T09:52:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3570689624</integer>
+			<key>Play Date UTC</key><date>2017-02-23T10:13:44Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2015-11-11T14:54:45Z</date>
+			<key>Normalization</key><integer>978</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0F1895C7AB1AFDBA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>8405</key>
+		<dict>
+			<key>Track ID</key><integer>8405</integer>
+			<key>Name</key><string>Hey Hey, My My (Into The Black)</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Neil Young &#38; Jeff Blackburn</string>
+			<key>Album</key><string>Rust Never Sleeps (Live)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5089625</integer>
+			<key>Total Time</key><integer>314200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2011-12-01T18:40:06Z</date>
+			<key>Date Added</key><date>2006-09-25T10:40:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3508409929</integer>
+			<key>Play Date UTC</key><date>2015-03-05T14:18:49Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-09-04T18:56:33Z</date>
+			<key>Normalization</key><integer>2696</integer>
+			<key>Persistent ID</key><string>D683635166936ACC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>8585</key>
+		<dict>
+			<key>Track ID</key><integer>8585</integer>
+			<key>Name</key><string>Too Far Gone</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Neil Young</string>
+			<key>Album</key><string>Freedom</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2745076</integer>
+			<key>Total Time</key><integer>168573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2011-12-01T18:37:51Z</date>
+			<key>Date Added</key><date>2006-09-24T23:15:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3508413697</integer>
+			<key>Play Date UTC</key><date>2015-03-05T15:21:37Z</date>
+			<key>Normalization</key><integer>1202</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3AD502600823BA26</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>8611</key>
+		<dict>
+			<key>Track ID</key><integer>8611</integer>
+			<key>Name</key><string>Mr. Soul</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Neil Young</string>
+			<key>Album</key><string>Neil Young Unplugged</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3804422</integer>
+			<key>Total Time</key><integer>234266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2011-12-01T18:39:21Z</date>
+			<key>Date Added</key><date>2006-09-24T23:35:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3558885917</integer>
+			<key>Play Date UTC</key><date>2016-10-09T18:25:17Z</date>
+			<key>Normalization</key><integer>1040</integer>
+			<key>Persistent ID</key><string>566FD35877C9A555</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>8635</key>
+		<dict>
+			<key>Track ID</key><integer>8635</integer>
+			<key>Name</key><string>From Hank To Hendrix</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Neil Young</string>
+			<key>Album</key><string>Neil Young Unplugged</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5682080</integer>
+			<key>Total Time</key><integer>350666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2011-12-01T18:39:22Z</date>
+			<key>Date Added</key><date>2006-09-24T23:44:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3508402626</integer>
+			<key>Play Date UTC</key><date>2015-03-05T12:17:06Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-09-25T17:12:57Z</date>
+			<key>Normalization</key><integer>719</integer>
+			<key>Persistent ID</key><string>7D449D3FC95E8D9E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>15917</key>
+		<dict>
+			<key>Track ID</key><integer>15917</integer>
+			<key>Name</key><string>Cinnamon Girl</string>
+			<key>Artist</key><string>Neil Young &#38; Crazy Horse</string>
+			<key>Album Artist</key><string>Neil Young &#38; Crazy Horse</string>
+			<key>Composer</key><string>Neil Young</string>
+			<key>Album</key><string>Weld (Disc 1)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4663355</integer>
+			<key>Total Time</key><integer>287600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2012-11-08T21:36:11Z</date>
+			<key>Date Added</key><date>2006-10-14T08:50:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3508418042</integer>
+			<key>Play Date UTC</key><date>2015-03-05T16:34:02Z</date>
+			<key>Normalization</key><integer>1353</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>020E0F74F91CA681</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>15921</key>
+		<dict>
+			<key>Track ID</key><integer>15921</integer>
+			<key>Name</key><string>F*!#In' Up</string>
+			<key>Artist</key><string>Neil Young &#38; Crazy Horse</string>
+			<key>Album Artist</key><string>Neil Young &#38; Crazy Horse</string>
+			<key>Composer</key><string>Neil Young</string>
+			<key>Album</key><string>Weld (Disc 1)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6962149</integer>
+			<key>Total Time</key><integer>429600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2012-11-08T21:36:12Z</date>
+			<key>Date Added</key><date>2006-10-14T08:52:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3508414154</integer>
+			<key>Play Date UTC</key><date>2015-03-05T15:29:14Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-09-05T17:38:21Z</date>
+			<key>Normalization</key><integer>2299</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3606150BDFECB98C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>16887</key>
+		<dict>
+			<key>Track ID</key><integer>16887</integer>
+			<key>Name</key><string>Old Man</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Neil Young</string>
+			<key>Album</key><string>Live At Massey Hall 1971</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4817180</integer>
+			<key>Total Time</key><integer>297053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2012-11-08T21:35:38Z</date>
+			<key>Date Added</key><date>2007-03-27T17:23:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3508407887</integer>
+			<key>Play Date UTC</key><date>2015-03-05T13:44:47Z</date>
+			<key>Normalization</key><integer>1119</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BC874759EF377CD2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>16899</key>
+		<dict>
+			<key>Track ID</key><integer>16899</integer>
+			<key>Name</key><string>Don't Let It Bring You Down</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Neil Young</string>
+			<key>Album</key><string>Live At Massey Hall 1971</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2698726</integer>
+			<key>Total Time</key><integer>166293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2012-11-08T21:35:39Z</date>
+			<key>Date Added</key><date>2007-03-27T17:27:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3508407401</integer>
+			<key>Play Date UTC</key><date>2015-03-05T13:36:41Z</date>
+			<key>Normalization</key><integer>2602</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6CEB11D1F573C4B4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>16911</key>
+		<dict>
+			<key>Track ID</key><integer>16911</integer>
+			<key>Name</key><string>Down By The River</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Neil Young</string>
+			<key>Album</key><string>Live At Massey Hall 1971</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4036195</integer>
+			<key>Total Time</key><integer>248853</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2012-11-08T21:35:41Z</date>
+			<key>Date Added</key><date>2007-03-27T17:31:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3508409615</integer>
+			<key>Play Date UTC</key><date>2015-03-05T14:13:35Z</date>
+			<key>Normalization</key><integer>1956</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5E27F9599471EEC7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>17467</key>
+		<dict>
+			<key>Track ID</key><integer>17467</integer>
+			<key>Name</key><string>The Believer</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Neil Young</string>
+			<key>Album</key><string>Chrome Dreams II</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2525929</integer>
+			<key>Total Time</key><integer>163253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2011-12-01T18:37:08Z</date>
+			<key>Date Added</key><date>2008-03-02T18:46:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3508410486</integer>
+			<key>Play Date UTC</key><date>2015-03-05T14:28:06Z</date>
+			<key>Normalization</key><integer>1200</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Believer</string>
+			<key>Persistent ID</key><string>E10FF598AD6C8FDC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>17469</key>
+		<dict>
+			<key>Track ID</key><integer>17469</integer>
+			<key>Name</key><string>Spirit Road</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Neil Young</string>
+			<key>Album</key><string>Chrome Dreams II</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6292019</integer>
+			<key>Total Time</key><integer>395053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2011-12-01T18:37:08Z</date>
+			<key>Date Added</key><date>2008-03-02T18:47:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3508409367</integer>
+			<key>Play Date UTC</key><date>2015-03-05T14:09:27Z</date>
+			<key>Normalization</key><integer>1850</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>950E6DD2AE3E0145</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>17471</key>
+		<dict>
+			<key>Track ID</key><integer>17471</integer>
+			<key>Name</key><string>Dirty Old Man</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Neil Young</string>
+			<key>Album</key><string>Chrome Dreams II</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3184050</integer>
+			<key>Total Time</key><integer>200360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2011-12-01T18:37:08Z</date>
+			<key>Date Added</key><date>2008-03-02T18:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3508408318</integer>
+			<key>Play Date UTC</key><date>2015-03-05T13:51:58Z</date>
+			<key>Normalization</key><integer>1376</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A553EF7069882648</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>17475</key>
+		<dict>
+			<key>Track ID</key><integer>17475</integer>
+			<key>Name</key><string>No Hidden Path</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Neil Young</string>
+			<key>Album</key><string>Chrome Dreams II</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>14099445</integer>
+			<key>Total Time</key><integer>873253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-01-30T07:38:15Z</date>
+			<key>Date Added</key><date>2008-03-02T18:49:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3567173496</integer>
+			<key>Play Date UTC</key><date>2017-01-13T17:31:36Z</date>
+			<key>Normalization</key><integer>1733</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>59BC05EFB53571CC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Neil Young Edinburgh Gig</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>38893</integer>
+			<key>Playlist Persistent ID</key><string>E803F57083A5F55E</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>8635</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8199</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16899</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16887</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17471</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16911</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17475</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15921</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15917</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

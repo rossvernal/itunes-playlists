@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-12-05T08:54:20Z</date>
+	<key>Application Version</key><string>12.6.1.25</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/ross_/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C039D168C87B2A3C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>1441</key>
+		<dict>
+			<key>Track ID</key><integer>1441</integer>
+			<key>Name</key><string>Winter 4:08</string>
+			<key>Artist</key><string>Love and Money</string>
+			<key>Album Artist</key><string>Love and Money</string>
+			<key>Composer</key><string>James Grant</string>
+			<key>Album</key><string>Dogs in Traffic</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8915053</integer>
+			<key>Total Time</key><integer>248815</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-01-30T17:17:37Z</date>
+			<key>Date Added</key><date>2012-10-03T16:53:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3570452619</integer>
+			<key>Play Date UTC</key><date>2017-02-20T16:23:39Z</date>
+			<key>Normalization</key><integer>1153</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>98D90A0BBB5BFBBA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>2221</key>
+		<dict>
+			<key>Track ID</key><integer>2221</integer>
+			<key>Name</key><string>Brick</string>
+			<key>Artist</key><string>Ben Folds Five</string>
+			<key>Album Artist</key><string>Ben Folds Five</string>
+			<key>Album</key><string>Whatever and Ever Amen (Remastered Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9620298</integer>
+			<key>Total Time</key><integer>271720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2013-05-01T16:35:46Z</date>
+			<key>Date Added</key><date>2013-04-17T05:37:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3512544710</integer>
+			<key>Play Date UTC</key><date>2015-04-22T09:51:50Z</date>
+			<key>Normalization</key><integer>1819</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Whatever and Ever Amen (Remastered Edition)</string>
+			<key>Sort Artist</key><string>Ben Folds Five</string>
+			<key>Sort Name</key><string>Brick</string>
+			<key>Persistent ID</key><string>A32737CCD8E5B54F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>5149</key>
+		<dict>
+			<key>Track ID</key><integer>5149</integer>
+			<key>Name</key><string>In Remote Part/Scottish Fiction</string>
+			<key>Artist</key><string>Idlewild</string>
+			<key>Album Artist</key><string>Idlewild</string>
+			<key>Composer</key><string>Morgan</string>
+			<key>Album</key><string>The Remote Part</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3782393</integer>
+			<key>Total Time</key><integer>235193</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2011-11-27T16:42:07Z</date>
+			<key>Date Added</key><date>2006-09-12T16:40:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3573152365</integer>
+			<key>Play Date UTC</key><date>2017-03-23T22:19:25Z</date>
+			<key>Normalization</key><integer>6921</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Remote Part</string>
+			<key>Persistent ID</key><string>20C5A49F4C495923</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>10017</key>
+		<dict>
+			<key>Track ID</key><integer>10017</integer>
+			<key>Name</key><string>Mary Queen of Scots</string>
+			<key>Artist</key><string>Dougie Maclean, Royal Scottish National Orchestra &#38; John Logan</string>
+			<key>Album Artist</key><string>Dougie Maclean, Royal Scottish National Orchestra &#38; John Logan</string>
+			<key>Composer</key><string>Dougie Maclean</string>
+			<key>Album</key><string>Till Tomorrow</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Total Time</key><integer>284846</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-11-25T20:24:50Z</date>
+			<key>Date Added</key><date>2014-11-25T20:24:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3530535769</integer>
+			<key>Play Date UTC</key><date>2015-11-16T16:22:49Z</date>
+			<key>Normalization</key><integer>343</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>58F00BEC57AA6DB1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>10151</key>
+		<dict>
+			<key>Track ID</key><integer>10151</integer>
+			<key>Name</key><string>Talkin' Hawkin'</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Album</key><string>The Endless River</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6756992</integer>
+			<key>Total Time</key><integer>209453</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-12-27T19:37:54Z</date>
+			<key>Date Added</key><date>2014-12-27T19:37:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3576667928</integer>
+			<key>Play Date UTC</key><date>2017-05-03T13:52:08Z</date>
+			<key>Normalization</key><integer>1227</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Endless River</string>
+			<key>Persistent ID</key><string>088D8DE61AD53048</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>10231</key>
+		<dict>
+			<key>Track ID</key><integer>10231</integer>
+			<key>Name</key><string>An Ocean in Between the Waves</string>
+			<key>Artist</key><string>The War on Drugs</string>
+			<key>Album Artist</key><string>The War on Drugs</string>
+			<key>Album</key><string>Lost in the Dream</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Total Time</key><integer>431746</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-01-01T18:55:43Z</date>
+			<key>Date Added</key><date>2015-01-01T11:09:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3575895748</integer>
+			<key>Play Date UTC</key><date>2017-04-24T15:22:28Z</date>
+			<key>Normalization</key><integer>4443</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lost in the Dream</string>
+			<key>Sort Album Artist</key><string>War on Drugs</string>
+			<key>Sort Artist</key><string>The War on Drugs</string>
+			<key>Sort Name</key><string>An Ocean in Between the Waves</string>
+			<key>Persistent ID</key><string>E1BDBF35885A2BEC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>10367</key>
+		<dict>
+			<key>Track ID</key><integer>10367</integer>
+			<key>Name</key><string>Nearest Thing to Hip</string>
+			<key>Artist</key><string>The Waterboys</string>
+			<key>Album Artist</key><string>The Waterboys</string>
+			<key>Album</key><string>Modern Blues</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Total Time</key><integer>341665</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-01-20T22:30:37Z</date>
+			<key>Date Added</key><date>2015-01-19T10:38:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3570453406</integer>
+			<key>Play Date UTC</key><date>2017-02-20T16:36:46Z</date>
+			<key>Normalization</key><integer>749</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Modern Blues</string>
+			<key>Sort Album Artist</key><string>Waterboys</string>
+			<key>Sort Artist</key><string>The Waterboys</string>
+			<key>Sort Name</key><string>Nearest Thing to Hip</string>
+			<key>Persistent ID</key><string>1D65F846202921A2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>10379</key>
+		<dict>
+			<key>Track ID</key><integer>10379</integer>
+			<key>Name</key><string>I'm Not Afraid (Live)</string>
+			<key>Artist</key><string>Josh Ritter</string>
+			<key>Album Artist</key><string>Josh Ritter</string>
+			<key>Album</key><string>Acoustic Live, Vol. 1</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Total Time</key><integer>182920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-01-31T16:30:11Z</date>
+			<key>Date Added</key><date>2015-01-30T23:14:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3570452802</integer>
+			<key>Play Date UTC</key><date>2017-02-20T16:26:42Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-02-12T11:27:02Z</date>
+			<key>Normalization</key><integer>1226</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Acoustic Live, Vol. 1</string>
+			<key>Sort Artist</key><string>Josh Ritter</string>
+			<key>Sort Name</key><string>I'm Not Afraid (Live)</string>
+			<key>Persistent ID</key><string>495E1FA55EABE617</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>10411</key>
+		<dict>
+			<key>Track ID</key><integer>10411</integer>
+			<key>Name</key><string>Hush</string>
+			<key>Artist</key><string>Calexico</string>
+			<key>Album Artist</key><string>Calexico</string>
+			<key>Album</key><string>Algiers</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Total Time</key><integer>262560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2015-02-10T19:34:14Z</date>
+			<key>Date Added</key><date>2015-02-10T10:10:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3570453064</integer>
+			<key>Play Date UTC</key><date>2017-02-20T16:31:04Z</date>
+			<key>Normalization</key><integer>1260</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Algiers</string>
+			<key>Sort Artist</key><string>Calexico</string>
+			<key>Sort Name</key><string>Hush</string>
+			<key>Persistent ID</key><string>5E522FDBA7C1B966</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>13795</key>
+		<dict>
+			<key>Track ID</key><integer>13795</integer>
+			<key>Name</key><string>Minus 10</string>
+			<key>Artist</key><string>James Grant</string>
+			<key>Album</key><string>My Thrawn Glory</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>1548942</integer>
+			<key>Total Time</key><integer>93680</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2006-10-07T15:45:46Z</date>
+			<key>Date Added</key><date>2006-10-07T15:45:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3571311714</integer>
+			<key>Play Date UTC</key><date>2017-03-02T15:01:54Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9C0559C1231A31AF</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>13833</key>
+		<dict>
+			<key>Track ID</key><integer>13833</integer>
+			<key>Name</key><string>Lady Weeping at the Crossroads</string>
+			<key>Artist</key><string>James Grant</string>
+			<key>Album Artist</key><string>James Grant</string>
+			<key>Album</key><string>I Shot The Albatross</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4495897</integer>
+			<key>Total Time</key><integer>277400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2011-11-27T15:56:42Z</date>
+			<key>Date Added</key><date>2006-10-07T16:05:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>53</integer>
+			<key>Play Date</key><integer>3574144644</integer>
+			<key>Play Date UTC</key><date>2017-04-04T08:57:24Z</date>
+			<key>Normalization</key><integer>1096</integer>
+			<key>Persistent ID</key><string>D57C4B1551CB44C4</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Feb 2015</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>38785</integer>
+			<key>Playlist Persistent ID</key><string>A5BBADF4E76BA960</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>13795</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13833</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1441</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10379</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10411</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10231</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2221</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

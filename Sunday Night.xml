@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-12-05T08:56:17Z</date>
+	<key>Application Version</key><string>12.6.1.25</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/ross_/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C039D168C87B2A3C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>2435</key>
+		<dict>
+			<key>Track ID</key><integer>2435</integer>
+			<key>Name</key><string>Wichita Lineman-Galveston-Country Boy (You´ve Got Your Feet In LA)</string>
+			<key>Artist</key><string>Glen Campbell</string>
+			<key>Album</key><string>The Concert Collection</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4325387</integer>
+			<key>Total Time</key><integer>266795</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Date Modified</key><date>2006-01-07T16:18:10Z</date>
+			<key>Date Added</key><date>2005-04-19T19:13:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3572934467</integer>
+			<key>Play Date UTC</key><date>2017-03-21T09:47:47Z</date>
+			<key>Normalization</key><integer>801</integer>
+			<key>Sort Album</key><string>Concert Collection</string>
+			<key>Persistent ID</key><string>6A7ED67AB723F81F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>2437</key>
+		<dict>
+			<key>Track ID</key><integer>2437</integer>
+			<key>Name</key><string>By The Time I Get To Phoenix</string>
+			<key>Artist</key><string>Glen Campbell</string>
+			<key>Album</key><string>The Concert Collection</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2684040</integer>
+			<key>Total Time</key><integer>164395</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Date Modified</key><date>2005-04-19T19:14:32Z</date>
+			<key>Date Added</key><date>2005-04-19T19:14:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>46</integer>
+			<key>Play Date</key><integer>3572934200</integer>
+			<key>Play Date UTC</key><date>2017-03-21T09:43:20Z</date>
+			<key>Normalization</key><integer>413</integer>
+			<key>Sort Album</key><string>Concert Collection</string>
+			<key>Persistent ID</key><string>3B257372B1F991AE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>2581</key>
+		<dict>
+			<key>Track ID</key><integer>2581</integer>
+			<key>Name</key><string>The Antidote</string>
+			<key>Artist</key><string>Jo Mango</string>
+			<key>Album</key><string>The Antidote EP</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4362834</integer>
+			<key>Total Time</key><integer>272146</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-07-28T18:58:28Z</date>
+			<key>Date Added</key><date>2005-07-28T18:57:28Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>52</integer>
+			<key>Play Date</key><integer>3574145165</integer>
+			<key>Play Date UTC</key><date>2017-04-04T09:06:05Z</date>
+			<key>Normalization</key><integer>1779</integer>
+			<key>Sort Album</key><string>Antidote EP</string>
+			<key>Sort Name</key><string>Antidote</string>
+			<key>Persistent ID</key><string>E448C621557ABFFD</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>2583</key>
+		<dict>
+			<key>Track ID</key><integer>2583</integer>
+			<key>Name</key><string>Portugese Skies</string>
+			<key>Artist</key><string>Jo Mango</string>
+			<key>Album</key><string>The Antidote EP</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4414626</integer>
+			<key>Total Time</key><integer>275293</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-07-28T18:59:24Z</date>
+			<key>Date Added</key><date>2005-07-28T18:58:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>80</integer>
+			<key>Play Date</key><integer>3574141953</integer>
+			<key>Play Date UTC</key><date>2017-04-04T08:12:33Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-05-21T15:07:51Z</date>
+			<key>Normalization</key><integer>2743</integer>
+			<key>Sort Album</key><string>Antidote EP</string>
+			<key>Persistent ID</key><string>26B4C6EBB23F57CB</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>2585</key>
+		<dict>
+			<key>Track ID</key><integer>2585</integer>
+			<key>Name</key><string>Thirteen</string>
+			<key>Artist</key><string>Jo Mango</string>
+			<key>Album</key><string>The Antidote EP</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3506268</integer>
+			<key>Total Time</key><integer>218846</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-07-28T19:00:08Z</date>
+			<key>Date Added</key><date>2005-07-28T18:59:30Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3572935447</integer>
+			<key>Play Date UTC</key><date>2017-03-21T10:04:07Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Normalization</key><integer>1717</integer>
+			<key>Sort Album</key><string>Antidote EP</string>
+			<key>Persistent ID</key><string>4C45576278190BBD</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>2587</key>
+		<dict>
+			<key>Track ID</key><integer>2587</integer>
+			<key>Name</key><string>Joy</string>
+			<key>Artist</key><string>Jo Mango</string>
+			<key>Album</key><string>The Antidote EP</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4616660</integer>
+			<key>Total Time</key><integer>288785</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-07-28T19:01:05Z</date>
+			<key>Date Added</key><date>2005-07-28T19:00:14Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3572935735</integer>
+			<key>Play Date UTC</key><date>2017-03-21T10:08:55Z</date>
+			<key>Normalization</key><integer>1886</integer>
+			<key>Sort Album</key><string>Antidote EP</string>
+			<key>Persistent ID</key><string>985E8CBA128FD9BF</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>2589</key>
+		<dict>
+			<key>Track ID</key><integer>2589</integer>
+			<key>Name</key><string>The Antidote (Remix)</string>
+			<key>Artist</key><string>Jo Mango</string>
+			<key>Album</key><string>The Antidote EP</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3428449</integer>
+			<key>Total Time</key><integer>211903</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-07-28T19:01:53Z</date>
+			<key>Date Added</key><date>2005-07-28T19:01:12Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3572935947</integer>
+			<key>Play Date UTC</key><date>2017-03-21T10:12:27Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Normalization</key><integer>1760</integer>
+			<key>Sort Album</key><string>Antidote EP</string>
+			<key>Sort Name</key><string>Antidote (Remix)</string>
+			<key>Persistent ID</key><string>7AB4C4D475758E56</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>2633</key>
+		<dict>
+			<key>Track ID</key><integer>2633</integer>
+			<key>Name</key><string>Guilt Free</string>
+			<key>Artist</key><string>Money</string>
+			<key>Composer</key><string>Simon Cleary</string>
+			<key>Album</key><string>Money's Christmas Single - 2005</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5039034</integer>
+			<key>Total Time</key><integer>209867</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2005-11-26T00:10:47Z</date>
+			<key>Date Added</key><date>2005-11-26T00:10:57Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3572939757</integer>
+			<key>Play Date UTC</key><date>2017-03-21T11:15:57Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-04-06T17:37:32Z</date>
+			<key>Normalization</key><integer>1333</integer>
+			<key>Persistent ID</key><string>CE331FAFA9441BAB</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>2757</key>
+		<dict>
+			<key>Track ID</key><integer>2757</integer>
+			<key>Name</key><string>String Me Up</string>
+			<key>Artist</key><string>Gordon Davies</string>
+			<key>Album</key><string>Scout Hall Gig</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3324630</integer>
+			<key>Total Time</key><integer>207777</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2007-07-20T22:22:47Z</date>
+			<key>Date Added</key><date>2005-12-09T20:05:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3572947310</integer>
+			<key>Play Date UTC</key><date>2017-03-21T13:21:50Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Normalization</key><integer>301</integer>
+			<key>Persistent ID</key><string>2B9A5E357EB5365B</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>3933</key>
+		<dict>
+			<key>Track ID</key><integer>3933</integer>
+			<key>Name</key><string>Hurricane</string>
+			<key>Artist</key><string>Mindy Smith</string>
+			<key>Album Artist</key><string>Mindy Smith</string>
+			<key>Composer</key><string>Mindy Smith</string>
+			<key>Album</key><string>One Moment More</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3452252</integer>
+			<key>Total Time</key><integer>212995</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2011-12-01T18:34:49Z</date>
+			<key>Date Added</key><date>2006-07-25T15:29:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3572934680</integer>
+			<key>Play Date UTC</key><date>2017-03-21T09:51:20Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0CD8CF077E8F6A42</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>11551</key>
+		<dict>
+			<key>Track ID</key><integer>11551</integer>
+			<key>Name</key><string>You Make It Easy</string>
+			<key>Artist</key><string>Air</string>
+			<key>Album Artist</key><string>Air</string>
+			<key>Composer</key><string>Hirsch, Beth</string>
+			<key>Album</key><string>Moon Safari</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3900259</integer>
+			<key>Total Time</key><integer>241493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2013-01-31T16:54:29Z</date>
+			<key>Date Added</key><date>2006-09-30T23:59:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3572937151</integer>
+			<key>Play Date UTC</key><date>2017-03-21T10:32:31Z</date>
+			<key>Normalization</key><integer>1246</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>165825B33F85E808</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>14977</key>
+		<dict>
+			<key>Track ID</key><integer>14977</integer>
+			<key>Name</key><string>Something's Gotten Hold Of My Heart</string>
+			<key>Artist</key><string>Nick Cave &#38; The Bad Seeds</string>
+			<key>Album Artist</key><string>Nick Cave &#38; The Bad Seeds</string>
+			<key>Composer</key><string>Greenaway-Cooke</string>
+			<key>Album</key><string>Kicking Against The Pricks</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3652423</integer>
+			<key>Total Time</key><integer>224826</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2011-12-01T18:44:08Z</date>
+			<key>Date Added</key><date>2006-10-09T18:29:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3572937376</integer>
+			<key>Play Date UTC</key><date>2017-03-21T10:36:16Z</date>
+			<key>Normalization</key><integer>809</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5C195016EB22550B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Sunday Night</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>38980</integer>
+			<key>Playlist Persistent ID</key><string>4B603072F7F848EE</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>2437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2435</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3933</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2581</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2583</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2587</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2589</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2633</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2757</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11551</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14977</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

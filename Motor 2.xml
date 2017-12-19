@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-12-05T08:55:17Z</date>
+	<key>Application Version</key><string>12.6.1.25</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/ross_/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C039D168C87B2A3C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>3605</key>
+		<dict>
+			<key>Track ID</key><integer>3605</integer>
+			<key>Name</key><string>You In The Sky</string>
+			<key>Artist</key><string>The Waterboys</string>
+			<key>Album Artist</key><string>The Waterboys</string>
+			<key>Composer</key><string>Mike Scott</string>
+			<key>Album</key><string>Fisherman's Blues (Collectors' Edition)</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5608033</integer>
+			<key>Total Time</key><integer>347949</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2011-12-02T22:28:16Z</date>
+			<key>Date Added</key><date>2006-07-15T23:01:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3517760694</integer>
+			<key>Play Date UTC</key><date>2015-06-21T18:44:54Z</date>
+			<key>Normalization</key><integer>6078</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Waterboys</string>
+			<key>Sort Artist</key><string>Waterboys</string>
+			<key>Persistent ID</key><string>795DF90130D25E18</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>3855</key>
+		<dict>
+			<key>Track ID</key><integer>3855</integer>
+			<key>Name</key><string>People Ain't No Good</string>
+			<key>Artist</key><string>Nick Cave &#38; The Bad Seeds</string>
+			<key>Album Artist</key><string>Nick Cave &#38; The Bad Seeds</string>
+			<key>Composer</key><string>Nick Cave</string>
+			<key>Album</key><string>The Boatman's Call</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5505555</integer>
+			<key>Total Time</key><integer>342005</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2011-12-01T19:45:22Z</date>
+			<key>Date Added</key><date>2006-07-23T11:45:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3532943002</integer>
+			<key>Play Date UTC</key><date>2015-12-14T13:03:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Boatman's Call</string>
+			<key>Persistent ID</key><string>FC6AFCFB0493F340</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>8171</key>
+		<dict>
+			<key>Track ID</key><integer>8171</integer>
+			<key>Name</key><string>Heart Of Gold</string>
+			<key>Artist</key><string>Neil Young</string>
+			<key>Album Artist</key><string>Neil Young</string>
+			<key>Composer</key><string>Young, Neil</string>
+			<key>Album</key><string>Harvest</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3048933</integer>
+			<key>Total Time</key><integer>187093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2011-12-01T18:38:03Z</date>
+			<key>Date Added</key><date>2006-09-24T18:19:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3508411190</integer>
+			<key>Play Date UTC</key><date>2015-03-05T14:39:50Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Normalization</key><integer>719</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>08CCAC92AE65DFFE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>15051</key>
+		<dict>
+			<key>Track ID</key><integer>15051</integer>
+			<key>Name</key><string>Rock Of Gibraltar</string>
+			<key>Artist</key><string>Nick Cave &#38; The Bad Seeds</string>
+			<key>Album Artist</key><string>Nick Cave &#38; The Bad Seeds</string>
+			<key>Composer</key><string>Nick Cave</string>
+			<key>Album</key><string>Nocturama</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2937062</integer>
+			<key>Total Time</key><integer>180173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2012-11-08T21:33:04Z</date>
+			<key>Date Added</key><date>2006-10-09T19:32:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3572344170</integer>
+			<key>Play Date UTC</key><date>2017-03-14T13:49:30Z</date>
+			<key>Normalization</key><integer>3204</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CF5601560607BC62</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>15247</key>
+		<dict>
+			<key>Track ID</key><integer>15247</integer>
+			<key>Name</key><string>Stolen Car</string>
+			<key>Artist</key><string>Patty Griffin</string>
+			<key>Composer</key><string>Bruce Springsteen</string>
+			<key>Album</key><string>Uncut - Born To Run 2003 - Volume One</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4246138</integer>
+			<key>Total Time</key><integer>263266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2006-10-12T16:10:31Z</date>
+			<key>Date Added</key><date>2006-10-12T16:09:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3511524107</integer>
+			<key>Play Date UTC</key><date>2015-04-10T14:21:47Z</date>
+			<key>Normalization</key><integer>594</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>ECD405D56A1EC508</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>16197</key>
+		<dict>
+			<key>Track ID</key><integer>16197</integer>
+			<key>Name</key><string>Be Mine Tonight</string>
+			<key>Artist</key><string>Dave Dobbyn</string>
+			<key>Album Artist</key><string>Dave Dobbyn</string>
+			<key>Album</key><string>Overnight Success</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4144992</integer>
+			<key>Total Time</key><integer>255626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2013-03-09T14:12:41Z</date>
+			<key>Date Added</key><date>2006-10-14T16:10:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3511524711</integer>
+			<key>Play Date UTC</key><date>2015-04-10T14:31:51Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-08-03T08:09:18Z</date>
+			<key>Normalization</key><integer>7433</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E79D19480BF8C7FE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>16261</key>
+		<dict>
+			<key>Track ID</key><integer>16261</integer>
+			<key>Name</key><string>Useless Desires</string>
+			<key>Artist</key><string>Patty Griffin</string>
+			<key>Composer</key><string>Griffin</string>
+			<key>Album</key><string>Word 29</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5631042</integer>
+			<key>Total Time</key><integer>349493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2006-10-15T09:28:29Z</date>
+			<key>Date Added</key><date>2006-10-15T09:27:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3511524457</integer>
+			<key>Play Date UTC</key><date>2015-04-10T14:27:37Z</date>
+			<key>Normalization</key><integer>7883</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>46EC826597AAAF92</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>16499</key>
+		<dict>
+			<key>Track ID</key><integer>16499</integer>
+			<key>Name</key><string>As Still As I Watch Your Grave</string>
+			<key>Artist</key><string>Roddy Woomble</string>
+			<key>Album Artist</key><string>Roddy Woomble</string>
+			<key>Album</key><string>My Secret Is My Silence</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4650609</integer>
+			<key>Total Time</key><integer>287146</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2011-12-01T19:31:05Z</date>
+			<key>Date Added</key><date>2006-10-15T12:11:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3540739413</integer>
+			<key>Play Date UTC</key><date>2016-03-13T18:43:33Z</date>
+			<key>Normalization</key><integer>10664</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9AE4EC934410F058</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>16519</key>
+		<dict>
+			<key>Track ID</key><integer>16519</integer>
+			<key>Name</key><string>The Dark End Of The Street</string>
+			<key>Artist</key><string>James Carr</string>
+			<key>Album Artist</key><string>James Carr</string>
+			<key>Composer</key><string>Chips Moman/Dan Penn/Spooner Oldham</string>
+			<key>Album</key><string>The Complete Goldwax Singles</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2466530</integer>
+			<key>Total Time</key><integer>153653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-03-09T13:55:04Z</date>
+			<key>Date Added</key><date>2006-11-08T19:05:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3511519243</integer>
+			<key>Play Date UTC</key><date>2015-04-10T13:00:43Z</date>
+			<key>Normalization</key><integer>2314</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Goldwax Singles</string>
+			<key>Sort Name</key><string>Dark End Of The Street</string>
+			<key>Persistent ID</key><string>10807DCF945E3516</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>16523</key>
+		<dict>
+			<key>Track ID</key><integer>16523</integer>
+			<key>Name</key><string>A Man Needs A Woman</string>
+			<key>Artist</key><string>James Carr</string>
+			<key>Album Artist</key><string>James Carr</string>
+			<key>Composer</key><string>O.B. McClinton/Quinton Claunch</string>
+			<key>Album</key><string>The Complete Goldwax Singles</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2715245</integer>
+			<key>Total Time</key><integer>169400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-03-09T13:55:04Z</date>
+			<key>Date Added</key><date>2006-11-08T19:06:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3465293433</integer>
+			<key>Play Date UTC</key><date>2013-10-22T12:30:33Z</date>
+			<key>Normalization</key><integer>2506</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete Goldwax Singles</string>
+			<key>Sort Name</key><string>Man Needs A Woman</string>
+			<key>Persistent ID</key><string>AB95E4F09884AFA0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>16581</key>
+		<dict>
+			<key>Track ID</key><integer>16581</integer>
+			<key>Name</key><string>Love Letter</string>
+			<key>Artist</key><string>Nick Cave &#38; The Bad Seeds</string>
+			<key>Album Artist</key><string>Nick Cave &#38; The Bad Seeds</string>
+			<key>Composer</key><string>Nick Cave</string>
+			<key>Album</key><string>No More Shall We Part</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3964630</integer>
+			<key>Total Time</key><integer>248493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2012-11-08T21:36:27Z</date>
+			<key>Date Added</key><date>2006-11-08T19:31:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3511522131</integer>
+			<key>Play Date UTC</key><date>2015-04-10T13:48:51Z</date>
+			<key>Normalization</key><integer>1163</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>61EFE5B1F9E86277</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>16599</key>
+		<dict>
+			<key>Track ID</key><integer>16599</integer>
+			<key>Name</key><string>Couldn't Be Done</string>
+			<key>Artist</key><string>Tim Finn</string>
+			<key>Album Artist</key><string>Tim Finn</string>
+			<key>Composer</key><string>Tim Finn</string>
+			<key>Album</key><string>Imaginary Kingdom</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>2788069</integer>
+			<key>Total Time</key><integer>170933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-03-16T16:46:55Z</date>
+			<key>Date Added</key><date>2006-11-08T20:44:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3511523015</integer>
+			<key>Play Date UTC</key><date>2015-04-10T14:03:35Z</date>
+			<key>Normalization</key><integer>2842</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A7E992B27CBFB6D8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>16609</key>
+		<dict>
+			<key>Track ID</key><integer>16609</integer>
+			<key>Name</key><string>Horizon</string>
+			<key>Artist</key><string>Tim Finn</string>
+			<key>Album Artist</key><string>Tim Finn</string>
+			<key>Composer</key><string>Tim Finn</string>
+			<key>Album</key><string>Imaginary Kingdom</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3311918</integer>
+			<key>Total Time</key><integer>203640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-03-16T16:47:00Z</date>
+			<key>Date Added</key><date>2006-11-08T20:48:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3511523219</integer>
+			<key>Play Date UTC</key><date>2015-04-10T14:06:59Z</date>
+			<key>Normalization</key><integer>3618</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>133BF901C000D4B9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Motor 2</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>38877</integer>
+			<key>Playlist Persistent ID</key><string>FBBD303F48C5F371</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>16519</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16599</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16609</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3855</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15051</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16581</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3605</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15247</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16261</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8171</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

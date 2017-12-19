@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-12-05T08:55:01Z</date>
+	<key>Application Version</key><string>12.6.1.25</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/ross_/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C039D168C87B2A3C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>3247</key>
+		<dict>
+			<key>Track ID</key><integer>3247</integer>
+			<key>Name</key><string>Palaces Of Montezuma</string>
+			<key>Artist</key><string>Grinderman</string>
+			<key>Album Artist</key><string>Grinderman</string>
+			<key>Composer</key><string>Jim Sclavunos/Martyn Casey/Nick Cave/Warren Ellis</string>
+			<key>Album</key><string>Grinderman 2</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6951698</integer>
+			<key>Total Time</key><integer>212226</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2013-03-09T14:15:14Z</date>
+			<key>Date Added</key><date>2010-09-23T17:02:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3572602211</integer>
+			<key>Play Date UTC</key><date>2017-03-17T13:30:11Z</date>
+			<key>Normalization</key><integer>3023</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D6DD78D1413AF709</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>8537</key>
+		<dict>
+			<key>Track ID</key><integer>8537</integer>
+			<key>Name</key><string>Song to a Fox</string>
+			<key>Artist</key><string>Rachel Sermanni</string>
+			<key>Album</key><string>Under Mountains</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10250253</integer>
+			<key>Total Time</key><integer>310080</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2014-02-02T11:30:31Z</date>
+			<key>Date Added</key><date>2014-02-02T11:30:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3572609655</integer>
+			<key>Play Date UTC</key><date>2017-03-17T15:34:15Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-03-23T14:30:25Z</date>
+			<key>Normalization</key><integer>1211</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>42E160D3968676D8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>9183</key>
+		<dict>
+			<key>Track ID</key><integer>9183</integer>
+			<key>Name</key><string>She's Leaving Home</string>
+			<key>Artist</key><string>The Beatles</string>
+			<key>Album Artist</key><string>The Beatles</string>
+			<key>Composer</key><string>John Lennon &#38; Paul McCartney</string>
+			<key>Album</key><string>Sgt. Pepper's Lonely Hearts Club Band</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Total Time</key><integer>215160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2014-07-03T21:03:47Z</date>
+			<key>Date Added</key><date>2014-07-03T09:20:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3572609870</integer>
+			<key>Play Date UTC</key><date>2017-03-17T15:37:50Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-10-28T08:42:42Z</date>
+			<key>Normalization</key><integer>1809</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Beatles</string>
+			<key>Sort Artist</key><string>Beatles</string>
+			<key>Persistent ID</key><string>1B9B575C66D1C9EF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>9189</key>
+		<dict>
+			<key>Track ID</key><integer>9189</integer>
+			<key>Name</key><string>When I'm Sixty-Four</string>
+			<key>Artist</key><string>The Beatles</string>
+			<key>Album Artist</key><string>The Beatles</string>
+			<key>Composer</key><string>John Lennon &#38; Paul McCartney</string>
+			<key>Album</key><string>Sgt. Pepper's Lonely Hearts Club Band</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Total Time</key><integer>157666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2014-07-03T21:04:03Z</date>
+			<key>Date Added</key><date>2014-07-03T09:20:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3572610027</integer>
+			<key>Play Date UTC</key><date>2017-03-17T15:40:27Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-10-28T08:42:46Z</date>
+			<key>Normalization</key><integer>1661</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Beatles</string>
+			<key>Sort Artist</key><string>Beatles</string>
+			<key>Persistent ID</key><string>839B996F512ECFCE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>9225</key>
+		<dict>
+			<key>Track ID</key><integer>9225</integer>
+			<key>Name</key><string>Messiah</string>
+			<key>Artist</key><string>Prides</string>
+			<key>Album Artist</key><string>Prides</string>
+			<key>Composer</key><string>Stewart James Brock, Lewis Lockheart Gardiner &#38; Callum Robert Wiseman</string>
+			<key>Album</key><string>The Seeds You Sow - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Total Time</key><integer>212053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-08-06T21:15:53Z</date>
+			<key>Date Added</key><date>2014-08-03T23:56:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>58</integer>
+			<key>Play Date</key><integer>3574139737</integer>
+			<key>Play Date UTC</key><date>2017-04-04T07:35:37Z</date>
+			<key>Normalization</key><integer>3155</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Seeds You Sow - Single</string>
+			<key>Persistent ID</key><string>31D05075970D08C1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>9229</key>
+		<dict>
+			<key>Track ID</key><integer>9229</integer>
+			<key>Name</key><string>Hounds of Love</string>
+			<key>Artist</key><string>Kate Bush</string>
+			<key>Album Artist</key><string>Kate Bush</string>
+			<key>Composer</key><string>Kate Bush</string>
+			<key>Album</key><string>Hounds of Love</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Total Time</key><integer>183133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1985</integer>
+			<key>Date Modified</key><date>2015-03-05T22:04:32Z</date>
+			<key>Date Added</key><date>2014-08-29T09:42:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3572609351</integer>
+			<key>Play Date UTC</key><date>2017-03-17T15:29:11Z</date>
+			<key>Normalization</key><integer>949</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EFB53FE5F3ED876F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>15421</key>
+		<dict>
+			<key>Track ID</key><integer>15421</integer>
+			<key>Name</key><string>So Alive</string>
+			<key>Artist</key><string>Ryan Adams</string>
+			<key>Album Artist</key><string>Ryan Adams</string>
+			<key>Composer</key><string>Johnny T Yerington/Ryan Adams</string>
+			<key>Album</key><string>Rock n Roll</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>3868746</integer>
+			<key>Total Time</key><integer>238333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2011-12-01T19:33:27Z</date>
+			<key>Date Added</key><date>2006-10-13T10:13:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3572602450</integer>
+			<key>Play Date UTC</key><date>2017-03-17T13:34:10Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-08-25T14:38:31Z</date>
+			<key>Normalization</key><integer>14078</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>748105B2773AAD81</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Late Summer 2014</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>38858</integer>
+			<key>Playlist Persistent ID</key><string>114E2E836653D309</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>9225</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3247</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15421</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9229</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8537</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9189</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

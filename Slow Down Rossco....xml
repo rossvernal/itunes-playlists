@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-12-05T08:55:54Z</date>
+	<key>Application Version</key><string>12.6.1.25</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/ross_/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C039D168C87B2A3C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>1483</key>
+		<dict>
+			<key>Track ID</key><integer>1483</integer>
+			<key>Name</key><string>You're Not The Only One</string>
+			<key>Artist</key><string>James Grant</string>
+			<key>Album</key><string>Hey Renee</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4247826</integer>
+			<key>Total Time</key><integer>350902</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2009-06-26T09:51:37Z</date>
+			<key>Date Added</key><date>2009-06-26T09:50:43Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>72</integer>
+			<key>Play Date</key><integer>3574141089</integer>
+			<key>Play Date UTC</key><date>2017-04-04T07:58:09Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-03-26T22:29:41Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DC05CFDEBB434572</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>14225</key>
+		<dict>
+			<key>Track ID</key><integer>14225</integer>
+			<key>Name</key><string>Who Knows Where The Time Goes?</string>
+			<key>Artist</key><string>Fairport Convention</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Sandy Denny</string>
+			<key>Album</key><string>Q Essential Chillout</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4950300</integer>
+			<key>Total Time</key><integer>305293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2013-03-09T13:54:01Z</date>
+			<key>Date Added</key><date>2006-10-08T10:41:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3572526013</integer>
+			<key>Play Date UTC</key><date>2017-03-16T16:20:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Normalization</key><integer>1554</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>C3D4A04BD9D1C658</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>16629</key>
+		<dict>
+			<key>Track ID</key><integer>16629</integer>
+			<key>Name</key><string>Redwings</string>
+			<key>Artist</key><string>Guillemots</string>
+			<key>Album Artist</key><string>Guillemots</string>
+			<key>Composer</key><string>Fyfe Dangerfield</string>
+			<key>Album</key><string>Through The Window Pane</string>
+			<key>Genre</key><string>Alternative &#38; Punk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5877627</integer>
+			<key>Total Time</key><integer>362666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2011-11-27T15:37:05Z</date>
+			<key>Date Added</key><date>2006-11-27T18:33:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>60</integer>
+			<key>Play Date</key><integer>3574147189</integer>
+			<key>Play Date UTC</key><date>2017-04-04T09:39:49Z</date>
+			<key>Normalization</key><integer>2140</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>970E15F7A95B2EEC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>17233</key>
+		<dict>
+			<key>Track ID</key><integer>17233</integer>
+			<key>Name</key><string>Standing In The Doorway</string>
+			<key>Artist</key><string>Bob Dylan</string>
+			<key>Album Artist</key><string>Bob Dylan</string>
+			<key>Composer</key><string>Bob Dylan</string>
+			<key>Album</key><string>Time Out Of Mind</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7633522</integer>
+			<key>Total Time</key><integer>463360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2012-04-29T08:47:39Z</date>
+			<key>Date Added</key><date>2008-01-13T16:05:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3572522172</integer>
+			<key>Play Date UTC</key><date>2017-03-16T15:16:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Normalization</key><integer>986</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1A7DCBBD924FB5C5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>17601</key>
+		<dict>
+			<key>Track ID</key><integer>17601</integer>
+			<key>Name</key><string>Mississippi</string>
+			<key>Artist</key><string>Bob Dylan</string>
+			<key>Album</key><string>Guardian Demo Track</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7278832</integer>
+			<key>Total Time</key><integer>363187</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Date Modified</key><date>2008-09-27T09:10:59Z</date>
+			<key>Date Added</key><date>2008-09-27T09:00:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>59</integer>
+			<key>Play Date</key><integer>3574142316</integer>
+			<key>Play Date UTC</key><date>2017-04-04T08:18:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Normalization</key><integer>1225</integer>
+			<key>Persistent ID</key><string>703D23BB73761AB4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Slow Down Rossco...</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>38941</integer>
+			<key>Playlist Persistent ID</key><string>7E0FE9332592C0C2</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>17233</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17601</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1483</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16629</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14225</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
